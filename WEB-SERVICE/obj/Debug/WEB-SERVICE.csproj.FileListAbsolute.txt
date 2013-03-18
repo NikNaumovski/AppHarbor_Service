@@ -1,0 +1,9 @@
+D:\Main_DesktopFolder\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\obj\Debug\ResolveAssemblyReference.cache
+D:\Main_DesktopFolder\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\bin\WEB-SERVICE.dll
+D:\Main_DesktopFolder\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\bin\WEB-SERVICE.pdb
+D:\Main_DesktopFolder\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\obj\Debug\WEB-SERVICE.dll
+D:\Main_DesktopFolder\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\obj\Debug\WEB-SERVICE.pdb
+C:\Users\Nikola\Desktop\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\bin\WEB-SERVICE.dll
+C:\Users\Nikola\Desktop\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\bin\WEB-SERVICE.pdb
+C:\Users\Nikola\Desktop\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\obj\Debug\WEB-SERVICE.dll
+C:\Users\Nikola\Desktop\MyWork-Examples\WS\WEB-SERVICE\WEB-SERVICE\obj\Debug\WEB-SERVICE.pdb
